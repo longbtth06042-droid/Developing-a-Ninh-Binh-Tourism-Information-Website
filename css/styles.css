@@ -80,6 +80,7 @@ nav a:hover {
 .hero-content p {
     font-size: 20px;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .btn {
@@ -241,8 +242,11 @@ footer {
 }
 
 footer p {
-    margin: 0;
+    background-color: #1f3b73;
     color: white;
+    text-align: center; /* Căn giữa nội dung */
+    padding: 15px 0;
+    margin: 5px 0;
 }
 
 /* Responsive Design */
